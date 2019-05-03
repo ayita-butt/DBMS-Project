@@ -1,0 +1,15 @@
+C:\Users\Hp\Downloads\2016-CS-261_7224\first\bin\Debug\first.exe.config
+C:\Users\Hp\Downloads\2016-CS-261_7224\first\bin\Debug\first.exe
+C:\Users\Hp\Downloads\2016-CS-261_7224\first\bin\Debug\first.pdb
+C:\Users\Hp\Downloads\2016-CS-261_7224\first\bin\Debug\itextsharp.dll
+C:\Users\Hp\Downloads\2016-CS-261_7224\first\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Hp\Downloads\2016-CS-261_7224\first\bin\Debug\itextsharp.xtra.dll
+C:\Users\Hp\Downloads\2016-CS-261_7224\first\bin\Debug\itextsharp.xml
+C:\Users\Hp\Downloads\2016-CS-261_7224\first\obj\Debug\first.csprojAssemblyReference.cache
+C:\Users\Hp\Downloads\2016-CS-261_7224\first\obj\Debug\first.Form1.resources
+C:\Users\Hp\Downloads\2016-CS-261_7224\first\obj\Debug\first.Properties.Resources.resources
+C:\Users\Hp\Downloads\2016-CS-261_7224\first\obj\Debug\first.csproj.GenerateResource.cache
+C:\Users\Hp\Downloads\2016-CS-261_7224\first\obj\Debug\first.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\2016-CS-261_7224\first\obj\Debug\first.csproj.CopyComplete
+C:\Users\Hp\Downloads\2016-CS-261_7224\first\obj\Debug\first.exe
+C:\Users\Hp\Downloads\2016-CS-261_7224\first\obj\Debug\first.pdb
